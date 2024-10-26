@@ -21,7 +21,7 @@ I graduated from the 4-year Information Systems and Technologies program at Trak
 
 - Flutter Developer
 
-- Backend Developer (Java Spring Boot)
+- Web Developer (Java Spring Boot, React.js)
 
 <h2>Tech Stack</h3>
    
