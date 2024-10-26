@@ -21,7 +21,7 @@ I graduated from the 4-year Information Systems and Technologies program at Trak
 
 - Flutter Developer
 
-- Backend Developer (Spring Boot)
+- Backend Developer (Java Spring Boot)
 
 <!-- About section: END -->
 
@@ -49,12 +49,7 @@ I graduated from the 4-year Information Systems and Technologies program at Trak
   <summary><b>:zap: GitHub Profile Stat</b></summary>
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=EgemenDokkodo&show_icons=true" />
 </details>
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/Egemendokkodo/"><img alt="Egemen's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Egemendokkodo&custom_title=Egemen's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-</details>
+
 
 <!-- GitHub section: END -->
 
