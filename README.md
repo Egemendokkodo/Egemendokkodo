@@ -10,7 +10,7 @@
  <!-- About section -->
 
 ---
-✨ I'm a Mobile Application Developer/Backend Developer. 
+✨ I'm a Mobile Application Developer/Web Developer. 
 
 I graduated from the 4-year Information Systems and Technologies program at Trakya University. I am developing my skills in mobile and backend development. I enjoy learning new things and constantly strive to improve myself.
 
