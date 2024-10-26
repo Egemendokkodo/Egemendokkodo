@@ -40,8 +40,20 @@ I graduated from the 4-year Information Systems and Technologies program at Trak
  ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
  
  <div>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Egemendokkodo" alt="Egemen's LangStat" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Egemendokkodo&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Egemen's language" height="192px"  width="500px"/>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Egemendokkodo" alt="Egemen's LangStat" /> <br></br>
+  ### 🛠 &nbsp;Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 </div>
 
 **Expand to view**
@@ -58,20 +70,4 @@ I graduated from the 4-year Information Systems and Technologies program at Trak
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Egemendokkodo&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
-<!-- THE END -->
 
-
-<!--
-**lauragift21/lauragift21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
